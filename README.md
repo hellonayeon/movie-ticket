@@ -61,7 +61,7 @@
 
 데이터베이스 서버로 RDS를 선정했다. EC로 할 경우 원격으로 접속해서 MySQL을 설치해줘야 하는 번거로움이 있어 RDS로 데이터 서버를 생성했다.
 
-![영화 목록 카테고리](readme-images/7-movie-list-main-category.png)
+![영화 목록 카테고리](readme-images/aws-rds.png)
 
 ### 프로젝트에 적용
 
